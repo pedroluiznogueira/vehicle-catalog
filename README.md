@@ -100,7 +100,7 @@
 
 <br>
 
-- Overview
+<p style="text-align: center;">Overview<p>
 
 <img src="documentation\architecture\system\system-overview.png"> 
    
@@ -110,31 +110,31 @@
 
 <br>
 
-- Overview
+<p style="text-align: center;">Overview<p>
 
 <img src="documentation\architecture\back-end\back-end-overview.png">
 
 <br>
 
-- Security
+<p style="text-align: center;">Security<p>
 
 <img src="documentation\architecture\back-end\back-end-security.png">
 
 <br>
 
-- Details
+<p style="text-align: center;">Details<p>
 
 <img src="documentation\architecture\back-end\back-end-details.png">
 
 <br>
 
-- AWS
+<p style="text-align: center;">AWS<p>
 
 <img src="documentation\architecture\back-end\back-end-aws.png">
 
 <br>
 
-- Vehicles
+<p style="text-align: center;">Vehicles<p>
 
 <img src="documentation\architecture\back-end\back-end-vehicles.png">
    
@@ -144,13 +144,13 @@
 
 <br>
 
-- Overview
+<p style="text-align: center;">Overview<p>
 
 <img src="documentation\architecture\front-end\front-end-overview.png">
 
 <br>
 
-- Details
+<p style="text-align: center;">Details<p>
 
 <img src="documentation\architecture\front-end\front-end-details.png">
 
@@ -164,7 +164,7 @@
 
 <br>
 
-- Oveview
+<p style="text-align: center;">Overview<p>
 
 <img src="documentation\architecture\gitflow\gitflow.png">
 
@@ -184,4 +184,4 @@
 
 <hr>
     
-</div>
+</p>
