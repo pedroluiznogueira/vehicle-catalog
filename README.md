@@ -115,11 +115,13 @@
 <img src="documentation\architecture\back-end\back-end-overview.png">
 
 <br>
+<br>
 
 - Security
 
 <img src="documentation\architecture\back-end\back-end-security.png">
 
+<br>
 <br>
 
 - Details
@@ -127,11 +129,13 @@
 <img src="documentation\architecture\back-end\back-end-details.png">
 
 <br>
+<br>
 
 - AWS
 
 <img src="documentation\architecture\back-end\back-end-aws.png">
 
+<br>
 <br>
 
 - Vehicles
@@ -148,6 +152,7 @@
 
 <img src="documentation\architecture\front-end\front-end-overview.png">
 
+<br>
 <br>
 
 - Details
