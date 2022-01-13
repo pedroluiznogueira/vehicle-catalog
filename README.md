@@ -5,6 +5,7 @@
 <br>
 <ul>
   <li><a href="#acess">Acessando Issues, Pull Request e Projects das aplicações</a></li>
+  <li><a href="#access">Documentação dos Repositórios de Desenvolvimento</a></li>
   <li><a href="#repos">Repositórios utilizados em Desenvolvimento</a></li>
   <li><a href="#tecs">Tecnologias</a></li>
   <li><a href="#arq">Arquitetura</a></li>
@@ -14,12 +15,16 @@
 </ul>
 <hr>
 
-<div id="acess"></div>
+<div id="access"></div>
 
 ## Repositórios usados em desenvolvimento 
 
 <br>
 
+<b>
+    Para acessar a documentação dos Repositórios da aplicação React e Java, assim como, como rodá-las localmente, acesse os <a href="#repos">REPOSITÓRIOS DE DESENVOLVIMENTO</a>
+</b> <br>
+<br>
 <p>
     Para acessar em detalhes o raciocínio técnico passo a passo em cada aplicação no desenvolvimento
 </p>
