@@ -1,4 +1,5 @@
 ## Vehicle Catalog - Documentação
+<br>
 
 <hr>
 <h2>Sumário desta Documentação</h2>
@@ -62,6 +63,7 @@
 <div id="tecs"></div>
     
 ## Tecnologias
+<br>
 
 | Aplicação              |      Ferramenta          |
 | :-------------------- | :-----------------------: |
@@ -94,6 +96,7 @@
 <div id="arq"></div>
     
 ## Arquitetura do Sistema
+<br>
 
 <h3>Arquitetura <b>geral</b></h3>
 
