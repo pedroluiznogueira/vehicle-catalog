@@ -29,18 +29,18 @@
 <div style="display:flex; justify-content:center; align-items:center; flex-direction: column"> 
 <p style="text-align: center; font-size: 20px;"> <b>Front-end</b></p>
         <ul>
-            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-react/projects/1">Projects</a></li>
-            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-react/issues?q=is%3Aissue+is%3Aclosed">Issues</a></li>
-            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-react/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-catalog-react/projects/1">Projects</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-catalog-react/issues?q=is%3Aissue+is%3Aclosed">Issues</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-catalog-react/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a></li>
         </ul>
 </div>
 <br>
 <div style="display:flex; justify-content:center; align-items:center; flex-direction: column">
     <p style="text-align: center; font-size: 20px;"> <b>Back-end</b></p>
         <ul>
-            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-java/projects/1">Projects</a></li>
-            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-java/issues?q=is%3Aissue+is%3Aclosed">Issues</a></li>
-            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-java/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-catalog-java/projects/1">Projects</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-catalog-java/issues?q=is%3Aissue+is%3Aclosed">Issues</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-catalog-java/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a></li>
         </ul>
 <br>
 <hr>
@@ -53,8 +53,8 @@
 
 | Repositório              |      Link          |
 | :-------------------- | :-----------------------: |
-| Front-end        |      <a href="https://github.com/pedroluiznogueira/vehicle-calatlog-react">Acesse</a>        |
-|   Back-end|     <a href="https://github.com/pedroluiznogueira/vehicle-calatlog-java">Acesse</a>          |
+| Front-end        |      <a href="https://github.com/pedroluiznogueira/vehicle-catalog-react">Acesse</a>        |
+|   Back-end|     <a href="https://github.com/pedroluiznogueira/vehicle-catalog-java">Acesse</a>          |
 
 <br>
 
