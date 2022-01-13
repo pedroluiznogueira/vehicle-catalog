@@ -1,4 +1,4 @@
-## SPS TEST - Documentação
+## Vehicle Catalog - Documentação
 
 <hr>
 <h2>Sumário desta Documentação</h2>
@@ -188,5 +188,3 @@
 3. Abra um Pull Request para a branch <b>MASTER</b> deste projeto
 
 <hr>
-    
-</>
