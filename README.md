@@ -94,7 +94,6 @@
 <div id="arq"></div>
     
 ## Arquitetura do Sistema
-<br>
 
 <h3>Arquitetura <b>geral</b></h3>
 
