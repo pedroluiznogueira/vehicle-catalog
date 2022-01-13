@@ -6,9 +6,9 @@
   <li><a href="#acess">Acessando Issues, Pull Request e Projects das aplicações</a></li>
   <li><a href="#repos">Repositórios utilizados em Desenvolvimento</a></li>
   <li><a href="#tecs">Tecnologias</a></li>
+  <li><a href="#arq">Arquitetura</a></li>
   <li><a href="#ger">Gerenciamento dos Projetos</a></li>
   <li><a href="#gf">Git Flow</a></li>
-  <li><a href="#arq">Arquitetura</a></li>
   <li><a href="#contr">Como contribuir</a></li>
 </ul>
 <hr>
@@ -16,6 +16,7 @@
 <div id="acess"></div>
 
 ## Repositórios usados em desenvolvimento 
+
 <br>
 
 <p>
@@ -26,16 +27,20 @@
 </p>
 <div style="display:flex; justify-content:center; align-items:center; flex-direction: column"> 
 <p style="text-align: center; font-size: 20px;"> <b>Front-end</b></p>
-        <a href="https://github.com/pedroluiznogueira/sps-react/projects/1">Projects</a> <br>
-        <a href="https://github.com/pedroluiznogueira/sps-react/issues?q=is%3Aissue+is%3Aclosed">Issues</a> <br>
-        <a href="https://github.com/pedroluiznogueira/sps-react/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a> <br>
+        <ul>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-react/projects/1">Projects</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-react/issues?q=is%3Aissue+is%3Aclosed">Issues</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-react/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a></li>
+        </ul>
 </div>
 <br>
 <div style="display:flex; justify-content:center; align-items:center; flex-direction: column">
     <p style="text-align: center; font-size: 20px;"> <b>Back-end</b></p>
-        <a href="https://github.com/pedroluiznogueira/sps-node/projects/1">Projects</a>  <br>
-        <a href="https://github.com/pedroluiznogueira/sps-node/issues?q=is%3Aissue+is%3Aclosed">Issues</a> <br>
-        <a href="https://github.com/pedroluiznogueira/sps-node/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a> <br>
+        <ul>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-java/projects/1">Projects</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-java/issues?q=is%3Aissue+is%3Aclosed">Issues</a></li>
+            <li><a href="https://github.com/pedroluiznogueira/vehicle-calatlog-java/pulls?q=is%3Apr+is%3Aclosed">Pull Requests</a></li>
+        </ul>
 <br>
 <hr>
     
@@ -43,10 +48,12 @@
     
 ## Repositórios de Desenvolvimento
 
+<br>
+
 | Repositório              |      Link          |
 | :-------------------- | :-----------------------: |
-| Front-end        |      <a href="https://github.com/pedroluiznogueira/sps-react">Acesse</a>        |
-|   Back-end|     <a href="https://github.com/pedroluiznogueira/sps-node">Acesse</a>          |
+| Front-end        |      <a href="https://github.com/pedroluiznogueira/vehicle-calatlog-react">Acesse</a>        |
+|   Back-end|     <a href="https://github.com/pedroluiznogueira/vehicle-calatlog-java">Acesse</a>          |
 
 <br>
 
@@ -58,8 +65,8 @@
 
 | Aplicação              |      Ferramenta          |
 | :-------------------- | :-----------------------: |
-| API        |      NodeJS & Express           |
-|   CLIENT|     ReactJS          |
+| API        |      Java & Spring           |
+|   CLIENT|     React          |
 <br>
 
 <hr>
@@ -84,26 +91,89 @@
 <br>
 <hr>
 
-<div id="gf"></div>
-    
-<p style="text-align: center; font-size: 20px;"> <b>Git Flow</b></p>
-<img src="diagrams\gitflow.png">
-
-<br>
-
-<hr>
-    
 <div id="arq"></div>
     
 ## Arquitetura do Sistema
 <br>
 
-<img src="diagrams\architecture.jpeg">
+<h3>Arquitetura <b>geral</b></h3>
 
-<div id="contr"></div>
+<br>
+
+- Overview
+
+<img src="documentation\architecture\system\system-overview.png"> 
    
 <hr>
+
+<h3>Arquitetura do <b>back-end</b></h3>
+
+<br>
+
+- Overview
+
+<img src="documentation\architecture\back-end\back-end-overview.png">
+
+<br>
+
+- Security
+
+<img src="documentation\architecture\back-end\back-end-security.png">
+
+<br>
+
+- Details
+
+<img src="documentation\architecture\back-end\back-end-details.png">
+
+<br>
+
+- AWS
+
+<img src="documentation\architecture\back-end\back-end-aws.png">
+
+<br>
+
+- Vehicles
+
+<img src="documentation\architecture\back-end\back-end-vehicles.png">
+   
+<hr>
+
+<h3>Arquitetura do <b>front-end</b></h3>
+
+<br>
+
+- Overview
+
+<img src="documentation\architecture\front-end\front-end-overview.png">
+
+<br>
+
+- Details
+
+<img src="documentation\architecture\front-end\front-end-details.png">
+
+<br>
+   
+<hr>
+
+<div id="gf"></div>
     
+<h3>Versionamento com <b>git-flow</b></h3>
+
+<br>
+
+- Oveview
+
+<img src="documentation\architecture\gitflow\gitflow.png">
+
+<br>
+
+<hr>
+
+<div id="contr"></div>
+
 ## Contribuições
 
 -> Sinta-se livre para abrir contribuir para esse projeto seguindo os seguintes passos:
