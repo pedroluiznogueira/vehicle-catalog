@@ -1,8 +1,8 @@
 ## Vehicle Catalog - Documentação
-<br>
 
 <hr>
 <h2>Sumário desta Documentação</h2>
+<br>
 <ul>
   <li><a href="#acess">Acessando Issues, Pull Request e Projects das aplicações</a></li>
   <li><a href="#repos">Repositórios utilizados em Desenvolvimento</a></li>
