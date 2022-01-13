@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
-    <diagram id="vMVbhK-qQRgrkQJiZG_x" name="Page-1">
-        <mxGraphModel dx="2571" dy="1573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <diagram id="vMVbhK-qQRgrkQJiZG_x" name="overview">
+        <mxGraphModel dx="2715" dy="1667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -47,7 +47,7 @@
                     <mxGeometry x="-607" y="-614" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" value="Docker Hub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="-528" y="-658" width="145" height="30" as="geometry"/>
+                    <mxGeometry x="-500" y="-658" width="145" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="Heroku" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-487" y="-822" width="145" height="30" as="geometry"/>
